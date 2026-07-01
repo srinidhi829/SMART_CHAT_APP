@@ -1,0 +1,44 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Generated
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-plugins
+.packages
+
+# Android
+android/.gradle/
+android/local.properties
+android/**/build/
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# macOS
+macos/Pods/
+
+# Linux
+linux/flutter/ephemeral/
+
+# Windows
+windows/flutter/ephemeral/
+
+# Web
+web/flutter_service_worker.js
+web/.dart_tool/
+
+# Misc
+*.log
+*.tmp
